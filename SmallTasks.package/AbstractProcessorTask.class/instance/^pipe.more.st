@@ -1,3 +1,3 @@
-instance creation
-|> anObject
+actions
+|> aProcessorTask
 	^ self subclassResponsibility 

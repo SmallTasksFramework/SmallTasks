@@ -1,3 +1,3 @@
 actions
-|> aTask
-	self successor: aTask
+|> aProcessorTask
+	self successor |> aProcessorTask 

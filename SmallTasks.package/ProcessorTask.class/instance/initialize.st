@@ -1,3 +1,3 @@
 initialization
 initialize
-	self successor: (ProcessorNullTask new)
+	self successor: (ProcessorNullTask newFor: self)
