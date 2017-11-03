@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractTransformer",
+	"category" : "SmallTasks-Valuables",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"totalCounter"
+	],
+	"name" : "CounterTransformer",
+	"type" : "normal"
+}

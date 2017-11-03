@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "ProcessorTask",
+	"category" : "SmallTasks-Task",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"collection"
+	],
+	"name" : "StorageTask",
+	"type" : "normal"
+}

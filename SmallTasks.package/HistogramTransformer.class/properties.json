@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractTransformer",
+	"category" : "SmallTasks-Valuables",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dictionary"
+	],
+	"name" : "HistogramTransformer",
+	"type" : "normal"
+}

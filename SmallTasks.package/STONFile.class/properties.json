@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ReaderWriterStream",
+	"category" : "SmallTasks-Interfaces",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "STONFile",
+	"type" : "normal"
+}

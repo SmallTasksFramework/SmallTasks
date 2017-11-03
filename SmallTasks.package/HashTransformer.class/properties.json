@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractTransformer",
+	"category" : "SmallTasks-Valuables",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HashTransformer",
+	"type" : "normal"
+}

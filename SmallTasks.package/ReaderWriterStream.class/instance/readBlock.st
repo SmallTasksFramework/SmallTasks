@@ -1,0 +1,3 @@
+accessing
+readBlock
+	^ self subclassResponsibility 

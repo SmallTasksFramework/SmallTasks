@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "StreamInterface",
+	"category" : "SmallTasks-Interfaces",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TranscriptStream",
+	"type" : "normal"
+}

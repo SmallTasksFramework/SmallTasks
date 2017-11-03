@@ -1,0 +1,4 @@
+accessing
+nextOnSuccess
+	^ self successor
+	

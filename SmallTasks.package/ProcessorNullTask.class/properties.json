@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AbstractProcessorTask",
+	"category" : "SmallTasks-Task",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ProcessorNullTask",
+	"type" : "normal"
+}

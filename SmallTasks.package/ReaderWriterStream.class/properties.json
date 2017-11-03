@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "StreamInterface",
+	"category" : "SmallTasks-Interfaces",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fileName",
+		"storage"
+	],
+	"name" : "ReaderWriterStream",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+nextOnFailure
+	^ ProcessorNullTask new

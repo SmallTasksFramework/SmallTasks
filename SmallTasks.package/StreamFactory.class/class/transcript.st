@@ -1,0 +1,3 @@
+accessing
+transcript
+	^ TranscriptStream new

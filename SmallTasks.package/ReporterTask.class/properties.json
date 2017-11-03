@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ProcessorTask",
+	"category" : "SmallTasks-Task",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"message",
+		"streamInterface"
+	],
+	"name" : "ReporterTask",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+protected
+totalCounter
+	^ totalCounter 

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "StringTransformer",
+	"category" : "SmallTasks-Valuables",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "HistogramString",
+	"type" : "normal"
+}

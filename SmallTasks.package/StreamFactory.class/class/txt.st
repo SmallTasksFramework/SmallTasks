@@ -1,0 +1,3 @@
+accessing
+txt
+	^ TXTFile new

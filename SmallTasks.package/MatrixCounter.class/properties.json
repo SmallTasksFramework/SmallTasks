@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CounterTransformer",
+	"category" : "SmallTasks-Valuables",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MatrixCounter",
+	"type" : "normal"
+}

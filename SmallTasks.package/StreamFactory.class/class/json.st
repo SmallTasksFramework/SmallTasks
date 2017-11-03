@@ -1,0 +1,3 @@
+accessing
+json
+	^ JSONFile new
