@@ -1,5 +1,5 @@
 instance creation
 on: aCollection
 	^ self new
-		collection: aCollection inspect;
+		collection: aCollection;
 		yourself

@@ -1,4 +1,4 @@
 initialization
 initialize
 	super initialize.
-	self collection: Set new inspect
+	self collection: Set new
