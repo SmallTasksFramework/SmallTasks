@@ -1,6 +1,6 @@
 SystemOrganization addCategory: #SmallTasks!
-SystemOrganization addCategory: 'SmallTasks-Interfaces'!
+SystemOrganization addCategory: 'SmallTasks-Interface'!
 SystemOrganization addCategory: 'SmallTasks-Kernel'!
 SystemOrganization addCategory: 'SmallTasks-Stream'!
 SystemOrganization addCategory: 'SmallTasks-Task'!
-SystemOrganization addCategory: 'SmallTasks-Valuables'!
+SystemOrganization addCategory: 'SmallTasks-Valuable'!

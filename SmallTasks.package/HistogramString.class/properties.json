@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "StringTransformer",
-	"category" : "SmallTasks-Valuables",
+	"category" : "SmallTasks-Valuable",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

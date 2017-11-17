@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "ReaderWriterStream",
-	"category" : "SmallTasks-Interfaces",
+	"category" : "SmallTasks-Interface",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

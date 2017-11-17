@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "Object",
-	"category" : "SmallTasks-Interfaces",
+	"category" : "SmallTasks-Interface",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
